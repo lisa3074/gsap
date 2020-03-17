@@ -1,0 +1,19 @@
+{
+  "name": "gsap_exercise",
+  "version": "1.0.0",
+  "description": "",
+  "main": "multiballs.js",
+  "scripts": {
+    "start": "parcel *.html --open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lisa3074/gsap.git"
+  },
+  "author": "Lisa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lisa3074/gsap/issues"
+  },
+  "homepage": "https://github.com/lisa3074/gsap#readme"
+}
